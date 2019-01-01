@@ -1,6 +1,6 @@
 PluXml
 ======
-Créez un site Web performant en toute simplicité
+Créez un site Web performant en toute simplicité !
 
 Principales caractéristiques
 ----------------------------
